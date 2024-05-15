@@ -1,0 +1,262 @@
+body{
+    font-family: "Montserrat", sans-serif;
+}
+ul{
+    list-style-type: none;
+}
+.header-logo{
+    font-style: italic;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 1.11;
+        letter-spacing: -0.03em;
+        color: #111;
+        text-decoration: none;
+}
+.header-menu-link{
+    font-weight: 500;
+        font-size: 14px;
+        line-height: 1.14286;
+        letter-spacing: -0.02em;
+        color: #111;
+        text-decoration: none;
+}
+.firs-section{
+    background: rgba(17, 17, 17, 0.6);
+}
+.main-title{
+    font-weight: 500;
+        font-size: 28px;
+        line-height: 1.21429;
+        letter-spacing: -0.03em;
+        color: #fff;
+        text-align: left;
+}
+.first-section-btn-one {
+    font-weight: 600;
+        font-size: 14px;
+        color: #fff;
+        background: #fd9222;
+        
+}
+.first-section-btn-two{
+    font-weight: 600;
+        font-size: 14px;
+        color: #fff;
+        text-decoration: none;
+}
+.second-section-benefits{
+    background: #1e1823;
+}
+.benefits-features{
+    font-weight: 600;
+        font-size: 18px;
+        color: #fff;
+}
+.benefits-features-description{
+    font-weight: 400;
+        font-size: 14px;
+        line-height: 1.28571;
+        letter-spacing: -0.02em;
+        color: rgba(255, 255, 255, 0.7);
+}
+.repeated-header{
+    font-weight: 600;
+        font-size: 24px;
+        line-height: 1.16667;
+        letter-spacing: -0.03em;
+        text-transform: uppercase;
+        text-align: center;
+        color: #111;
+
+}
+.repeated-header-accent{
+    font-weight: 600;
+        font-size: 24px;
+        line-height: 1.16667;
+        letter-spacing: -0.03em;
+        text-transform: uppercase;
+        text-align: center;
+        color: #fd9222;
+}
+.second-section-description{
+    font-weight: 400;
+        font-size: 14px;
+        line-height: 1.28571;
+        letter-spacing: -0.02em;
+        text-align: center;
+        color: #111;
+}
+.ingredients-white{
+    font-weight: 600;
+        font-size: 14px;
+        line-height: 1.28571;
+        letter-spacing: -0.02em;
+        color: #fff;
+}
+.ingredients-black{
+    font-weight: 600;
+        font-size: 14px;
+        line-height: 1.28571;
+        letter-spacing: -0.02em;
+        color: #111;
+}
+.box-orange{
+    background: #fd9222;
+}
+.box-black{
+    background: #1e1823;
+}
+.box-white{
+    background: #fff;
+}
+.third-section-header{
+    font-weight: 600;
+        font-size: 18px;
+        line-height: 1.33333;
+        color: #111;
+}
+.third-section-list{
+    list-style-type:disc; 
+}
+.third-section-text{
+    font-weight: 400;
+        font-size: 14px;
+        line-height: 1.28571;
+        letter-spacing: -0.02em;
+        color: #111;
+}
+.four-section-header{
+    font-weight: 600;
+        font-size: 24px;
+        line-height: 1.16667;
+        letter-spacing: -0.03em;
+        text-transform: uppercase;
+        text-align: center;
+        color: #111;
+        text-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+}
+.four-section-header-accent{
+    font-weight: 600;
+        font-size: 24px;
+        line-height: 1.16667;
+        letter-spacing: -0.03em;
+        text-transform: uppercase;
+        text-align: center;
+        color: #fd9222;
+        text-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+}
+.product-item{
+    font-weight: 600;
+        font-size: 18px;
+        line-height: 1.33333;
+        letter-spacing: -0.02em;
+        text-transform: uppercase;
+        color: #111;
+}
+.product-item-description{
+    font-weight: 400;
+        font-size: 12px;
+        line-height: 1.16667;
+        letter-spacing: -0.02em;
+        color: rgba(17, 17, 17, 0.7);
+}
+.item-btn{
+    font-weight: 600;
+        font-size: 14px;
+        color: #111;
+}
+.five-section-text{
+    font-weight: 600;
+        font-size: 18px;
+        line-height: 1.33333;
+        letter-spacing: -0.02em;
+        text-transform: uppercase;
+        color: #111;
+}
+.reviewer-name{
+    font-weight: 600;
+        font-size: 18px;
+        line-height: 1.33333;
+        text-align: center;
+        color: #111;
+}
+.reviewer-feedback{
+    font-weight: 400;
+        font-size: 14px;
+        line-height: 1.28571;
+        letter-spacing: -0.02em;
+        text-align: center;
+        color: rgba(17, 17, 17, 0.7);
+}
+.reviewer-btn{
+    border: 1px solid #fd9222;
+        border-radius: 100px;
+        padding: 14px 40px;
+        width: 222px;
+        height: 50px;
+        font-weight: 600;
+            font-size: 18px;
+            color: #111;
+}
+.footer-slogan{
+    font-weight: 500;
+        font-size: 28px;
+        line-height: 1.21429;
+        letter-spacing: -0.02em;
+        color: #fff;
+}
+.footer-slogan-accent{
+    font-weight: 500;
+        font-size: 28px;
+        line-height: 1.21429;
+        letter-spacing: -0.02em;
+        color: #fd9222;
+}
+.footer{
+    background: #1e1823;
+}
+.footer-text{
+    font-weight: 500;
+        font-size: 14px;
+        line-height: 1.28571;
+        text-align: center;
+        color: #fff;
+}
+.address-items{
+font-weight: 400;
+    font-size: 14px;
+    line-height: 1.28571;
+    letter-spacing: -0.02em;
+    text-align: center;
+    color: #fff;
+    text-decoration: none;
+}
+.footer-item{
+    font-weight: 500;
+        font-size: 14px;
+        line-height: 1.14286;
+        letter-spacing: -0.02em;
+        color: #fff;
+}
+.footer-btn-subscribe{
+    border-radius: 100px;
+        padding: 17px 40px;
+        width: 137px;
+        height: 52px;
+        background: #fd9222;
+        display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: row;
+            gap: 14px;
+            font-weight: 600;
+                font-size: 14px;
+                color: #fff;
+}
+.footer-enter-email{
+font-weight: 400;
+    font-size: 18px;
+    letter-spacing: -0.02em;
+    color: rgba(255, 255, 255, 0.3);
+}
