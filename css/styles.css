@@ -1,9 +1,11 @@
 body{
     font-family: "Montserrat", sans-serif;
 }
+
 ul{
     list-style-type: none;
 }
+/* ----------------Header--------------------*/
 .header-logo{
     font-style: italic;
         font-weight: 700;
@@ -13,6 +15,7 @@ ul{
         color: #111;
         text-decoration: none;
 }
+
 .header-menu-link{
     font-weight: 500;
         font-size: 14px;
@@ -21,9 +24,12 @@ ul{
         color: #111;
         text-decoration: none;
 }
+
 .firs-section{
     background: rgba(17, 17, 17, 0.6);
 }
+
+/* -------------------END------------------ */
 .main-title{
     font-weight: 500;
         font-size: 28px;
@@ -32,6 +38,7 @@ ul{
         color: #fff;
         text-align: left;
 }
+
 .first-section-btn-one {
     font-weight: 600;
         font-size: 14px;
@@ -39,20 +46,24 @@ ul{
         background: #fd9222;
         
 }
+
 .first-section-btn-two{
     font-weight: 600;
         font-size: 14px;
         color: #fff;
         text-decoration: none;
 }
+
 .second-section-benefits{
     background: #1e1823;
 }
+
 .benefits-features{
     font-weight: 600;
         font-size: 18px;
         color: #fff;
 }
+
 .benefits-features-description{
     font-weight: 400;
         font-size: 14px;
@@ -60,6 +71,7 @@ ul{
         letter-spacing: -0.02em;
         color: rgba(255, 255, 255, 0.7);
 }
+
 .repeated-header{
     font-weight: 600;
         font-size: 24px;
@@ -70,6 +82,7 @@ ul{
         color: #111;
 
 }
+
 .repeated-header-accent{
     font-weight: 600;
         font-size: 24px;
@@ -79,6 +92,7 @@ ul{
         text-align: center;
         color: #fd9222;
 }
+
 .second-section-description{
     font-weight: 400;
         font-size: 14px;
@@ -87,6 +101,7 @@ ul{
         text-align: center;
         color: #111;
 }
+
 .ingredients-white{
     font-weight: 600;
         font-size: 14px;
@@ -94,6 +109,7 @@ ul{
         letter-spacing: -0.02em;
         color: #fff;
 }
+
 .ingredients-black{
     font-weight: 600;
         font-size: 14px;
@@ -101,24 +117,30 @@ ul{
         letter-spacing: -0.02em;
         color: #111;
 }
+
 .box-orange{
     background: #fd9222;
 }
+
 .box-black{
     background: #1e1823;
 }
+
 .box-white{
     background: #fff;
 }
+
 .third-section-header{
     font-weight: 600;
         font-size: 18px;
         line-height: 1.33333;
         color: #111;
 }
+
 .third-section-list{
     list-style-type:disc; 
 }
+
 .third-section-text{
     font-weight: 400;
         font-size: 14px;
@@ -126,6 +148,7 @@ ul{
         letter-spacing: -0.02em;
         color: #111;
 }
+
 .four-section-header{
     font-weight: 600;
         font-size: 24px;
@@ -136,6 +159,7 @@ ul{
         color: #111;
         text-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
 }
+
 .four-section-header-accent{
     font-weight: 600;
         font-size: 24px;
@@ -146,6 +170,7 @@ ul{
         color: #fd9222;
         text-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
 }
+
 .product-item{
     font-weight: 600;
         font-size: 18px;
@@ -154,6 +179,7 @@ ul{
         text-transform: uppercase;
         color: #111;
 }
+
 .product-item-description{
     font-weight: 400;
         font-size: 12px;
@@ -161,11 +187,13 @@ ul{
         letter-spacing: -0.02em;
         color: rgba(17, 17, 17, 0.7);
 }
+
 .item-btn{
     font-weight: 600;
         font-size: 14px;
         color: #111;
 }
+
 .five-section-text{
     font-weight: 600;
         font-size: 18px;
@@ -174,6 +202,7 @@ ul{
         text-transform: uppercase;
         color: #111;
 }
+
 .reviewer-name{
     font-weight: 600;
         font-size: 18px;
@@ -181,6 +210,7 @@ ul{
         text-align: center;
         color: #111;
 }
+
 .reviewer-feedback{
     font-weight: 400;
         font-size: 14px;
@@ -189,6 +219,7 @@ ul{
         text-align: center;
         color: rgba(17, 17, 17, 0.7);
 }
+
 .reviewer-btn{
     border: 1px solid #fd9222;
         border-radius: 100px;
@@ -199,6 +230,7 @@ ul{
             font-size: 18px;
             color: #111;
 }
+
 .footer-slogan{
     font-weight: 500;
         font-size: 28px;
@@ -206,6 +238,7 @@ ul{
         letter-spacing: -0.02em;
         color: #fff;
 }
+
 .footer-slogan-accent{
     font-weight: 500;
         font-size: 28px;
@@ -213,9 +246,11 @@ ul{
         letter-spacing: -0.02em;
         color: #fd9222;
 }
+
 .footer{
     background: #1e1823;
 }
+
 .footer-text{
     font-weight: 500;
         font-size: 14px;
@@ -223,6 +258,7 @@ ul{
         text-align: center;
         color: #fff;
 }
+
 .address-items{
 font-weight: 400;
     font-size: 14px;
@@ -231,7 +267,9 @@ font-weight: 400;
     text-align: center;
     color: #fff;
     text-decoration: none;
+    font-style: normal;
 }
+
 .footer-item{
     font-weight: 500;
         font-size: 14px;
@@ -239,6 +277,7 @@ font-weight: 400;
         letter-spacing: -0.02em;
         color: #fff;
 }
+
 .footer-btn-subscribe{
     border-radius: 100px;
         padding: 17px 40px;
@@ -254,9 +293,14 @@ font-weight: 400;
                 font-size: 14px;
                 color: #fff;
 }
+
 .footer-enter-email{
 font-weight: 400;
     font-size: 18px;
     letter-spacing: -0.02em;
     color: rgba(255, 255, 255, 0.3);
+}
+
+.social{
+    text-decoration: none;
 }
